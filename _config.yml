@@ -1,0 +1,28 @@
+name: OnePlayerADay
+favicon: null
+layout_spectrum: 0.47541086026467383
+typography_spectrum: 0.7422223058529198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3216542147565633
+  lightness: 0.37366006383672357
+  saturation: 0.12829092470929027
+  rhythmicContrast: 0.002742832526564598
+purpose: []
