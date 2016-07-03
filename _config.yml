@@ -2,6 +2,7 @@ name: OnePlayerADay
 favicon: null
 layout_spectrum: 0.47541086026467383
 typography_spectrum: 0.7422223058529198
+title: One Player a Day
 cta:
   domain: null
   bucket: null
