@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-03T17:17:38.760Z'
-dateModified: '2016-07-03T17:17:33.377Z'
+datePublished: '2016-07-04T12:31:50.115Z'
+dateModified: '2016-07-03T17:17:47.438Z'
 author: []
 title: Didier Drogba
 sourcePath: _posts/2016-07-03-didier-drogba.md
