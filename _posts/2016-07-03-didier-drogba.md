@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-04T12:31:50.115Z'
-dateModified: '2016-07-03T17:17:47.438Z'
+datePublished: '2016-07-04T12:32:27.954Z'
+dateModified: '2016-07-04T12:32:23.790Z'
 author: []
 title: Didier Drogba
 sourcePath: _posts/2016-07-03-didier-drogba.md
@@ -22,9 +22,7 @@ _type: MediaObject
 
 Didier Drogba
 
-> [Didier Drogba. ⚽️ \#soccer \#soccergame \#soccerlife \#soccerball \#soccerplayer \#football \#footballgame \#footballplayer \#footballgames \#TagsForHearts \#footballer \#footballislife \#footballsunday \#lifeinism \#footballlife \#footballplayers \#footballfield \#footballteam \#footballers \#americanfootball \#nfl \#ball \#tagsforlikes \#tflers \#chelsea \#Drogba \#Chelseafc \#igers][0]
-> 
-> A video posted by One Player A Day (@oneplayeraday) on Jul 3, 2016 at 3:59am PDT
+> [Didier Drogba. ⚽️ ][0]
 
 
 
