@@ -4,21 +4,21 @@
         <description><![CDATA[One Player a Day]]></description>
         <link>https://thegrid.ai/oneplayeraday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 12:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 12:34:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oneplayeraday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Didier Drogba]]></title>
+            <description><![CDATA[<article><h1>Didier Drogba</h1><p>Didier Drogba. ⚽️ </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c2ffdc-32e0-4512-b1d4-bbfd3d600005.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c2ffdc-32e0-4512-b1d4-bbfd3d600005.jpg</link>
+            <guid isPermaLink="false">f04636d0-567a-42a7-869f-46e90b239530</guid>
+            <pubDate>Mon, 04 Jul 2016 12:34:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Johan Cruyff]]></title>
             <description><![CDATA[<article><h1>Johan Cruyff</h1><p>Johan Cruyff. ⚽️ </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2f4608-facb-47fc-8601-d2e2168cc8a1.jpg"></article>]]></description>
             <link>https://instagram.com/p/BHbj8LLA2G7/</link>
             <guid isPermaLink="false">ba42a738-6e3a-46b0-9948-fcbe863185f1</guid>
             <pubDate>Mon, 04 Jul 2016 12:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Didier Drogba]]></title>
-            <description><![CDATA[<article><h1>Didier Drogba</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c2ffdc-32e0-4512-b1d4-bbfd3d600005.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c2ffdc-32e0-4512-b1d4-bbfd3d600005.jpg</link>
-            <guid isPermaLink="false">f04636d0-567a-42a7-869f-46e90b239530</guid>
-            <pubDate>Mon, 04 Jul 2016 12:32:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
